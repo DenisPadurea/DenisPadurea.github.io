@@ -528,7 +528,7 @@ ul.topmenu li a:hover {
 }
 @media screen and (max-width: 639px){
     .block-1{
-        background: url(../img/bg-1-320.jpeg) 50% 40px no-repeat #ff5d90;
+        background: url(../img/bg-1-320.jpeg) 50% 125px no-repeat #ff5d90;
     }
     .block-1 .head .wrap {
         height: 60px;
@@ -541,10 +541,11 @@ ul.topmenu li a:hover {
     }
     .block-1>.wrap{
         height: 905px;
-        padding: 35px 10px 0;
+        padding: 10px 10px 0;
+        margin-bottom: 0;
     }
     .block-1 h1{
-        margin: 0px 0 307px;
+        margin: 0px 0 330px;
         font-size: 21px;
         line-height: 1.4em;
         text-align: center;
@@ -559,7 +560,8 @@ ul.topmenu li a:hover {
     }
     .block-1 .sale{
         text-align: center;
-        font-size: 36px;
+        font-size: 21px;
+        line-height: 20px;
     }
     .block-1 .sale:after{
         display: none;
