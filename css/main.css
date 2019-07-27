@@ -432,9 +432,10 @@ ul.topmenu li a:hover {
         padding: 0 0 20px;
     }
     .block-1>.wrap{
-        height: 575px;
+        height: 610px;
         padding-top: 20px;
         padding-left: 10px;
+        margin-bottom:160px;
     }
     .block-1 h1{
         margin: 0 70px 25px 0;
